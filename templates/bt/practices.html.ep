@@ -1,0 +1,12 @@
+% layout 'bt';
+% title 'Beautiful Test Practices';
+<div class="bt-practice-head">
+  We have practices:
+</div>
+<div class="bt-practice-content">
+  <h4>Resources list</h4>
+  <ul class="bt-practice-content-ul">
+    <li class="bt-practice-content-li">SSD Practices</li>
+    <li class="bt-practice-content-li">NIC Practices</li>
+  </ul>
+</div>

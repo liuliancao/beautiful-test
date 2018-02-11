@@ -1,0 +1,7 @@
+% layout 'bt';
+% title 'Beautiful Test Intr';
+<div class="bt-intro-head">
+  Beautiful Test Introduction:
+</div>
+<div class="bt-intro-content">
+  <h4>About</h4>8</div>

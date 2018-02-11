@@ -1,0 +1,11 @@
+% layout 'bt';
+% title 'All tests';
+<div class="bt-test-head">
+  We have tests:
+</div>
+<div class="bt-test-content">
+  <ul class="bt-test-content-ul">
+    <li class="bt-test-content-li">SSD x Test</li>
+    <li class="bt-test-content-li">NIC y Test</li>
+  </ul>
+</div>

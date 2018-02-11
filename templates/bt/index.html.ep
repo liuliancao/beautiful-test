@@ -1,0 +1,11 @@
+% layout 'bt';
+% title 'Beautiful Test';
+
+<div class="bt-body">
+    <div class="bt-content-intr">
+        <h2>Supported Test</h2>
+    </div>
+</div>
+<div class="bt-foot">
+    <h4>Based on Mojolicious To learn more, you can browse through the documentation <%= link_to 'here' => '/perldoc' %>.</h4>
+</div>

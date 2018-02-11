@@ -1,0 +1,12 @@
+% layout 'bt';
+% title 'Beautiful Test Procedures';
+<div class="bt-procedure-head">
+  We have procedures:
+</div>
+<div class="bt-procedure-content">
+  <h4>Recommend procedures</h4>
+  <ul class="bt-procedure-content-ul">
+    <li class="bt-procedure-content-li">SSD Test Procedure</li>
+    <li class="bt-procedure-content-li">NIC Test Procedure</li>
+  </ul>
+</div>

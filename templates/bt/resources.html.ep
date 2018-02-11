@@ -1,0 +1,12 @@
+% layout 'bt';
+% title 'Beautiful Test Resources';
+<div class="bt-resource-head">
+  We have resources:
+</div>
+<div class="bt-resource-content">
+  <h4>Resources list</h4>
+  <ul class="bt-resource-content-ul">
+    <li class="bt-resource-content-li">SSD x, y, z testing by liuliancao</li>
+    <li class="bt-resource-content-li">NIC x, y, z not testing</li>
+  </ul>
+</div>
